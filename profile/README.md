@@ -1,9 +1,4 @@
 
-
-
-                          - 💬 Ask me about ...
-                          - 📫 How to reach me: ...
-                        
 <h1 align="center"> :clipboard: Devscope-Backstage </h1>
 
 <p align="center">
@@ -12,15 +7,15 @@
 <img src="https://img.shields.io/badge/license-Unlicense-blue.svg" alt="License: Unlicense">
 </a>
 
-<a href="https://github.com/markdown-templates/markdown-snippets/issues">
+<a href="https://github.com/Devscope-Backstage/backstage/issues">
 <img src="https://img.shields.io/github/issues/markdown-templates/markdown-snippets.svg" alt="Issues">
 </a>
 
-<a href="https://github.com/markdown-templates/markdown-snippets/fork">
+<a href="https://github.com/Devscope-Backstage/backstage/fork">
 <img src="https://img.shields.io/github/forks/markdown-templates/markdown-snippets.svg" alt="Forks">
 </a>
 
-<a href="https://github.com/markdown-templates/markdown-snippets/stargazers">
+<a href="https://github.com/Devscope-Backstage/backstage/stargazers">
 <img src="https://img.shields.io/github/stars/markdown-templates/markdown-snippets.svg" alt="Stars">
 </a>
 
@@ -36,11 +31,10 @@
 
 <h2 align="center"> :two_hearts: Contribute </h2>
 
-<p align="center">Feel free to add your own templates via <a href="https://github.com/orgs/Devscope-Backstage/teams/ithelpdesk"> Discussion</a> :+1:</p>
+<p align="center">Feel free to add your own idea via <a href="https://github.com/orgs/Devscope-Backstage/teams/ithelpdesk"> Discussion</a> :+1:</p>
 
 <p align="center">We will take care about the documentation! :wrench:</p>
 
-<p align="center"> Press the arrows below to expand the preview section </p>
 
 <!--
 
